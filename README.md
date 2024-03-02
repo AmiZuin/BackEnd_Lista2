@@ -1,6 +1,6 @@
 # Lista 2 💻
 
-### Está lista contém exercícios de Revisão Lógica
+### Está lista contém exercícios de Revisão de Programação Orientada a Objetos
 
 <hr>
 
